@@ -3,7 +3,7 @@ from waflib.Configure import conf
 
 @conf
 def configure(conf) :
-    print 'configuring'
+    print('configuring')
     sdl = conf.check_cfg(package='sdl',
         args='--cflags --libs',
         msg="Checking for SDL (optional)",
