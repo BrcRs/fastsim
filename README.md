@@ -1,6 +1,9 @@
 fastsim
 =======
 
+> I forked this project to fix missing parentheses and use this module in another project.
+
+
 **This is a Sferes2 module** 
 
 Fastsim is a fast, lightweight simulator of a wheeled robot (khepera-like).
